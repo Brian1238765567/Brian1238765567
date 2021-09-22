@@ -23,6 +23,11 @@
       "StackName": "amplify-tryawsbam-devv-193150",
       "StackId": "arn:aws:cloudformation:us-east-1:740029002153:stack/amplify-tryawsbam-devv-193150/4565fb70-1bfd-11ec-8230-0efdde0db845",
       "AmplifyAppId": "dp4dhb5r5dgtb"
+    },
+    "categories": {
+      "auth": {
+        "tryawsbameb8b9ec3": {}
+      }
     }
   }
 }
